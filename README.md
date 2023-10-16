@@ -1,2 +1,1 @@
-# PRO_C120_1a4_DETECCI-N-Y-RASTREO-DE-OBJETOS_Plantilla_-Alumno
-PRO_C120_1a4_DETECCIÓN Y RASTREO DE OBJETOS_Plantilla_ Alumno
+# PRO-C119-Plantilla del alumno
